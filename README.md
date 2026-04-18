@@ -38,7 +38,7 @@ This dashboard provides insights into employee data, helping track key HR metric
 
 ## Project Files  
 
-- [Employee Dashboard](./employee-performance-dashboard.xlsx)  
+- [Employee Dashboard](./employee-performance-dashboard.xlsb)  
   Contains dashboard, raw data, and pivot-based analysis  
 
 ---
